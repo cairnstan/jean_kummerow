@@ -432,7 +432,7 @@ padding:0px;
 	margin:0 auto;
 	padding:5px 0 20px;
 	text-align:center;
-	width:900px;
+	/*width:900px;*/
 	line-height: 12pt;
 	background: url(images/interface/footer-border.png) no-repeat 0px top;
 	border-top: 6px double #FCC;
