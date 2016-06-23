@@ -30,11 +30,11 @@ p {
 	color:#77CEC2;
 	margin:0px auto 0;
 	/*min-width:770px;*/
-	min-width:770px;
+	/*min-width:770px;*/
 	/*width:expression(document.body.clientWidth < 990? "990px": "auto" ); */
 	padding:0;
 	text-align:left;
-	width:900px;
+	/*width:900px;*/
 	/*background: #B5E3F2 url(images/bodybgHR.png) repeat-x;*/
 	background: #FFF;
 }
@@ -76,7 +76,7 @@ font-size:1.6em;
 
 #leftside,#rightside {
 	margin:0;
-	width:165px;
+	/*width:165px;*/
 	padding: 0 4px 10px 15px;
 }
 
